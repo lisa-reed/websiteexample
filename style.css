@@ -9,7 +9,7 @@ ul {
     padding: 0;
     overflow: hidden; 
     width: 60px;
-    background-color: #32CD32;
+    background-color: #00FF00;
     position: fixed;
     top: 0;
     width: 100%;
@@ -24,7 +24,7 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
-/* Change the link color to #111 (black) on hover */
+/* Change the link color to #333 (white) on hover */
 li a:hover {
-    background-color: #111;
+    background-color: #333;
 }
