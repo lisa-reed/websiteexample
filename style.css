@@ -3,3 +3,13 @@ h1{
   color:blue;
   text-decoration: underline;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: 32cd32;
+}
+li a {
+    display: block;
+    width: 60px;
+}
