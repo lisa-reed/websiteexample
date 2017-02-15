@@ -10,6 +10,9 @@ ul {
     overflow: hidden; 
     width: 60px;
     background-color: 32cd32;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 li  {
   float: left;
